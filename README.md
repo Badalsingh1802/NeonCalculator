@@ -30,7 +30,7 @@
 1. Clone the repo
 
   
-   git clone https://github.com/your-username/neoncalc.git
+   git clone https://github.com/Badalsingh1802/NeonCalculator.git
     
 
 2. Open `index.html` in your browser
