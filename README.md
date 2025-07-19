@@ -46,6 +46,6 @@ NeonCalc was created as a fun and stylish calculator project to enhance frontend
 
 ### 📌 Live Demo
 
-> [Click here to try it live](https://your-username.github.io/neoncalc)
+> [Click here to try it live](https://badalsingh1802.github.io/NeonCalculator/)
 
  
